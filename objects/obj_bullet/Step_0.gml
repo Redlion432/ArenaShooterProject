@@ -1,2 +1,0 @@
-
-cooldown = 0;
